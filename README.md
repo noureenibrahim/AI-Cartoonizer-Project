@@ -13,5 +13,5 @@ This project uses Computer Vision and Deep Learning to turn images and webcam fe
 
 ## Team
 * Member 1 and 2: Classical Vision
-* Member 3: AI Model
+* Member 3: AI Model 
 * Member 4: UI & Integration
